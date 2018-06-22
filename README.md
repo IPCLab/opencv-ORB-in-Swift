@@ -14,3 +14,8 @@ Since swift can't use opencv directly, we have to build a bridgeheader. Also we 
 
 see more detail in youtube:
 OpenCV 3 with Swift
+
+
+Note:
+
+FMDB usage in case.Implement in FMdatabase.h/FMdatabase.mm
